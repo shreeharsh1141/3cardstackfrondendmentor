@@ -1,0 +1,76 @@
+/* positioning and styling */
+.body{
+    background-color:hsl(0, 0%, 95%);
+}
+
+img{
+    width: 20%;
+}
+
+.card{
+    margin-top: 6rem;
+}
+
+.content{
+    padding: 3rem;
+}
+
+.card-body{
+    padding-left: 0;
+}
+
+.sedan{
+    padding: 3rem;
+    background-color: hsl(31, 77%, 52%);
+}
+
+.suv{
+    padding: 3rem;
+    background-color: hsl(184, 100%, 22%);
+}
+
+.luxury{
+    padding: 3rem;
+    background-color: hsl(179, 100%, 13%);
+}
+
+.btn{
+    margin-top: 3rem;
+    border-radius: 28px;  
+}
+.btn1{
+    color: hsl(31, 77%, 52%);
+    background-color:hsl(0, 0%, 95%);
+}
+.btn1:hover{
+    background-color: hsl(31, 77%, 52%);
+    color:hsl(0, 0%, 95%);
+}
+.btn2{
+    color: hsl(184, 100%, 22%);
+    background-color:hsl(0, 0%, 95%);
+}
+.btn2:hover{
+    background-color: hsl(184, 100%, 22%);
+    color:hsl(0, 0%, 95%);
+}
+.btn3{
+    color: hsl(179, 100%, 13%);
+    background-color:hsl(0, 0%, 95%);
+}
+.btn3:hover{
+    background-color: hsl(179, 100%, 13%);
+    color:hsl(0, 0%, 95%);
+}
+
+ /* text formatting */
+
+.container{
+    font-family: 'Lexend Deca', sans-serif;}
+
+.card-title{
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    font-size: 3rem;
+    color:  hsl(0, 0%, 95%);
+}
